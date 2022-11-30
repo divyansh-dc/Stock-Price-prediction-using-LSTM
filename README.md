@@ -1,8 +1,8 @@
-# Stock Price Prediction of Apple Inc. Using Recurrent Neural Network
-OHLC Average Prediction of Apple Inc. Using LSTM Recurrent Neural Network
+# Stock Price Prediction of Alphabet Inc. Using Recurrent Neural Network
+OHLC Average Prediction of Alphabet Inc. Using LSTM Recurrent Neural Network
 
 # Dataset:
-The dataset is taken from yahoo finace's website in CSV format. The dataset consists of Open, High, Low and Closing Prices of Apple Inc. stocks from 3rd january 2011 to 13th August 2017 - total 1664 rows. 
+The dataset is taken from yahoo finace's website in CSV format. The dataset consists of Open, High, Low and Closing Prices stocks from 3rd january 2001 to 13th August 2017 - total 1664 rows. 
 # Price Indicator:
 Stock traders mainly use three indicators for prediction: OHLC average (average of Open, High, Low and Closing Prices), HLC average (average of High, Low and Closing Prices) and Closing price, In this project, OHLC average has been used.
 # Data Pre-processing:
